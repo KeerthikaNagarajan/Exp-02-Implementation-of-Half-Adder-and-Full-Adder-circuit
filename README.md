@@ -68,7 +68,7 @@ endmodule
 ### RTL
 ![image](./imag/RTL1.png)
 ### TIMING DIAGRAM
-![image](./imag/TIME1.png)
+![image](./had.png)
 ### TRUTH TABLE 
 ![image](./imag/TABLE1.png)
 
@@ -80,7 +80,7 @@ endmodule
 ### RTL
 ![image](./imag/RTL2.png)
 ### TIMING DIAGRAM
-![image](./imag/TIME2.png)
+![image](./fud.png)
 ### TRUTH TABLE 
 ![image](./imag/TABLE2.png)
 
